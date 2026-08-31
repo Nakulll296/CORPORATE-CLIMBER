@@ -341,6 +341,6 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 
 ---
 
-**Developed by**: Paramesh N  
-**Contact**: [GitHub](https://github.com/parameshn) | [LinkedIn](https://www.linkedin.com/in/paramesh-n-70464b256)  
-**Project Repository**: https://github.com/parameshn/corporate-climber
+**Developed by**: Nakul.N  
+**Contact**: [GitHub](https://github.com/Nakulll296) | [LinkedIn](https://linkedin.com/in/nakul-profile})  
+**Project Repository**: https://github.com/Nakulll296/CORPORATE-CLIMBER.git
