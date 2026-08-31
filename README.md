@@ -58,7 +58,7 @@ Corporate Climber is an enterprise-grade Spring Boot application that leverages 
 
 ### 1. Repository Setup
 ```bash
-git clone https://github.com/parameshn/corporate-climber.git
+git clone https://github.com/Nakulll296/CORPORATE-CLIMBER.git
 cd corporate-climber
 ```
 
