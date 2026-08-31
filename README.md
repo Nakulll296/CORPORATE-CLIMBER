@@ -328,7 +328,7 @@ The application uses SLF4J with Logback for structured logging. Log levels can b
 ### Additional Resources
 - **Complete API Documentation**: [Postman Collection](https://kxld-4969301.postman.co/workspace/Paramesh-workspace~638a0202-4881-45c9-8a40-544f0617cade/collection/44593529-2675fe79-4de0-4310-8d53-32bd0f045916?action=share&creator=44593529)
 - **Issue Tracking**: GitHub Issues
-- **Technical Support**: parameshdarshan1234@gmail.com
+- **Technical Support**: Nakuljb24@gmail.com
 
 ### Version Information
 - **Current Version**: 1.0.0
